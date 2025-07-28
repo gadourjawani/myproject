@@ -10,3 +10,6 @@ body{
 h2{
     color: black;
 }
+h3{
+    text-decoration: dashed;
+}
