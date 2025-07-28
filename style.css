@@ -4,6 +4,9 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: blueviolet;
+    background-color: red;
 
+}
+h2{
+    color: black;
 }
